@@ -1,5 +1,5 @@
 # BigQuery
-## Practice in BigQuery
+## Practice BigQuery + Google Analytics
 
 ## Завдання 1. Напиши SQL-запит, який:
 
